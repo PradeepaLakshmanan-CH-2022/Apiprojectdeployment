@@ -1,0 +1,12 @@
+version: 0.0
+os: windows
+files:
+  - source: .
+    destination: C:\MyCicdApplication
+hooks:
+  BeforeInstall:
+    - location: C:\ApplicationPipeline\Apiprojectdeployment\PipelineTesting\install-prerequisites.ps1
+      timeout: 1800
+  ApplicationStart:
+    - location: C:\ApplicationPipeline\Apiprojectdeployment\PipelineTesting\start-webapi.ps1
+      timeout: 1800

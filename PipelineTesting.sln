@@ -7,18 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipelineTesting", "Pipeline
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectPipeline", "TestProjectPipeline\TestProjectPipeline.csproj", "{5F9BA629-0148-482F-BEFD-81550DC05BF1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Yamlfile", "Yamlfile", "{AF68D6CC-EAAD-455B-B8E5-D0D3328C44BE}"
-	ProjectSection(SolutionItems) = preProject
-		appspec.yml = appspec.yml
-		buildspec.yml = buildspec.yml
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{2F6B03C4-FE7E-47CB-BFBF-4BA43DE28A59}"
-	ProjectSection(SolutionItems) = preProject
-		install-prerequisites.ps1 = install-prerequisites.ps1
-		start-webapi.ps1 = start-webapi.ps1
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,9 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{2F6B03C4-FE7E-47CB-BFBF-4BA43DE28A59} = {AF68D6CC-EAAD-455B-B8E5-D0D3328C44BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6E549DB-82E9-430F-8340-EAA7A8B3D2B2}

@@ -6,7 +6,7 @@ files:
 hooks:
   BeforeInstall:
     - location:C:\ApplicationPipeline\Apiprojectdeployment\scripts\install-prerequisites.ps1
-      timeout: 1800
+      timeout: 900
   ApplicationStart:
-    - location: C:\ApplicationPipeline\Apiprojectdeployment\scripts\C:\ApplicationPipeline\Apiprojectdeployment\scripts\start-webapi.ps1
-      timeout: 1800
+    - location:C:\ApplicationPipeline\Apiprojectdeployment\scripts\start-webapi.ps1
+      timeout: 900

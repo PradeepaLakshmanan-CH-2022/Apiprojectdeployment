@@ -2,11 +2,11 @@ version: 0.0
 os: windows
 files:
   - source: .
-    destination: C:\WebApiFolder
+    destination: C:\MyCicdApplication
 hooks:
   BeforeInstall:
-    - location:scripts\install-prerequisites.ps1
-      timeout: 900
+    - location: Scripts/install-prerequisites.ps1
+      timeout: 1800
   ApplicationStart:
-    - location:scripts\start-webapi.ps1
-      timeout: 900
+    - location: Scripts/start-webapi.ps1
+      timeout: 1800

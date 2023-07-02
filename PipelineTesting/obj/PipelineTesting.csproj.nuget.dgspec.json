@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj": {}
+    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj": {}
   },
   "projects": {
-    "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj": {
+    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj",
         "projectName": "PipelineTesting",
-        "projectPath": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj",
+        "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj",
         "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-        "outputPath": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\obj\\",
+        "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",

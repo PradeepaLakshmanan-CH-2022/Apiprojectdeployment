@@ -5,8 +5,8 @@ files:
     destination: C:\MyCicdApplication
 hooks:
   BeforeInstall:
-    - location: Scripts/install-prerequisites.ps1
+    - location: C:\ApplicationPipeline\Apiprojectdeployment\install-prerequisites.ps1
       timeout: 1800
   ApplicationStart:
-    - location: Scripts/start-webapi.ps1
+    - location: C:\ApplicationPipeline\Apiprojectdeployment\start-webapi.ps1
       timeout: 1800

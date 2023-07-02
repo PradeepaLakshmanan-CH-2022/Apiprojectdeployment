@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj",
+      "projectUniqueName": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj",
       "projectName": "PipelineTesting",
-      "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\PipelineTesting.csproj",
+      "projectPath": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\PipelineTesting.csproj",
       "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\PipelineTesting\\PipelineTesting\\obj\\",
+      "outputPath": "C:\\ApplicationPipeline\\Apiprojectdeployment\\PipelineTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
